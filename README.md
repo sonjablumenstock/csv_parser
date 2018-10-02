@@ -1,6 +1,8 @@
 # CSV Parser
 
-Displays and plots csv files from the terminal
+Displays and plots csv files from the terminal.
+
+Done in the IMPRS Workshop "Intermediate Python Programming for Scientists" in October 2018 at the Max Planck Institute in Munich, Germany.
 
 ## Installation
 ``` bash
